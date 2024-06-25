@@ -1,4 +1,4 @@
-## # ¡Hola! Soy Gianina 👋
+## ¡Hola! Soy Gianina 👋
 
 ## Sobre mí
 Soy una apasionada programadora con un enfoque en el desarrollo Full Stack. Hace dos años culminé mi curso como Full Stack Developer, lo cual me ha permitido trabajar en diversos proyectos, tanto personales como freelance, abarcando desde el frontend hasta el backend. Actualmente, estoy en camino a obtener la certificación Oracle en Java, consolidando así mi conocimiento y habilidades en uno de los lenguajes de programación más robustos y demandados del mercado.
