@@ -1,16 +1,33 @@
-## Hi there 👋
+## # ¡Hola! Soy Gianina 👋
 
-<!--
-**gianinazcurra/gianinazcurra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
+Soy una apasionada programadora con un enfoque en el desarrollo Full Stack. Hace dos años culminé mi curso como Full Stack Developer, lo cual me ha permitido trabajar en diversos proyectos, tanto personales como freelance, abarcando desde el frontend hasta el backend. Actualmente, estoy en camino a obtener la certificación Oracle en Java, consolidando así mi conocimiento y habilidades en uno de los lenguajes de programación más robustos y demandados del mercado.
 
-Here are some ideas to get you started:
+## Mis Proyectos
+En mi portafolio de GitHub, encontrarás una variedad de proyectos en los que he trabajado recientemente. Estos incluyen aplicaciones web completas, APIs RESTful y más. Me enorgullece compartir mi código y siempre busco mejorar y aprender de la comunidad.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades Técnicas
+- **Frontend:** HTML, CSS
+- **Backend:**  Java, Spring Boot
+- **Bases de Datos:** MySQL
+- **Herramientas y Metodologías:** Git
+
+## Experiencia Freelance
+Trabajar como desarrolladora freelance me ha permitido colaborar con diferentes clientes y proyectos, adaptándome a sus necesidades específicas y ofreciendo soluciones eficientes y escalables. Esta experiencia ha sido invaluable para desarrollar una perspectiva amplia y práctica del mundo de la programación.
+
+## Certificación Oracle en Java
+Estoy en proceso de obtener la certificación Oracle en Java, lo que refuerza mi compromiso con la excelencia y la continua mejora profesional. Esta certificación es un paso importante en mi carrera y demuestra mi competencia en el desarrollo con Java.
+
+## Profesora de Inglés
+Además de mi pasión por la tecnología, soy profesora de inglés. Esta experiencia me ha permitido desarrollar importantes soft skills como la comunicación efectiva, la empatía y la capacidad de enseñar y aprender continuamente. Estas habilidades son esenciales en el mundo de la programación y me han ayudado a colaborar de manera más eficiente con equipos diversos y multiculturales.
+
+## ¿Te gustaría saber más?
+Estoy siempre abierta a nuevas oportunidades y conexiones en el mundo IT. Si tienes algún proyecto interesante, una idea para colaborar, o simplemente quieres conocer más sobre mi trabajo, no dudes en contactarme.
+
+### Conéctate conmigo:
+- [LinkedIn](https://www.linkedin.com/in/gianina-azcurra)
+- [Correo Electrónico](gianina.azcurra8@gmail.com)
+
+
+¡Gracias por visitar mi perfil de GitHub!
+
