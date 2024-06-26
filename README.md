@@ -4,7 +4,7 @@
 Soy una apasionada programadora con un enfoque en el desarrollo Full Stack. Hace dos años culminé mi curso como Full Stack Developer, lo cual me ha permitido trabajar en diversos proyectos, tanto personales como freelance, abarcando desde el frontend hasta el backend. Actualmente, estoy en camino a obtener la certificación Oracle en Java, consolidando así mi conocimiento y habilidades en uno de los lenguajes de programación más robustos y demandados del mercado.
 
 ## Mis Proyectos
-En mi portafolio de GitHub, encontrarás una variedad de proyectos en los que he trabajado recientemente. Estos incluyen aplicaciones web completas, APIs RESTful y más. Me enorgullece compartir mi código y siempre busco mejorar y aprender de la comunidad.
+En mi portafolio de GitHub, encontrarás variedad de proyectos en los que he trabajado recientemente. Estos incluyen aplicaciones web completas, APIs RESTful y más. Me enorgullece compartir mi código y siempre busco mejorar y aprender de la comunidad. 
 
 ## Habilidades Técnicas
 - **Frontend:** HTML, CSS
