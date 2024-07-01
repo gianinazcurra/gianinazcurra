@@ -8,16 +8,18 @@ En mi portafolio de GitHub, encontrarás variedad de proyectos en los que he tra
 
 ## Habilidades Técnicas
 - **Frontend:** 
-  ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) 
-  ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) 
-  ![Bootstrap](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg)
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
 - **Backend:** 
-  ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg) 
-  ![Spring Boot](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg)
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
 - **Bases de Datos:** 
-  ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
 - **Herramientas y Metodologías:** 
-  ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/>
 
 ## Experiencia Freelance
 Trabajar como desarrolladora freelance me ha permitido colaborar con diferentes clientes y proyectos, adaptándome a sus necesidades específicas y ofreciendo soluciones eficientes y escalables. Esta experiencia ha sido invaluable para desarrollar una perspectiva amplia y práctica del mundo de la programación.
@@ -35,6 +37,6 @@ Estoy siempre abierta a nuevas oportunidades y conexiones en el mundo IT. Si tie
 - [LinkedIn](https://www.linkedin.com/in/gianina-azcurra)
 - [Correo Electrónico](gianina.azcurra8@gmail.com)
 
-![GitHub Cat](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Cat" width="40" height="40"/>
 
 ¡Gracias por visitar mi perfil de GitHub!
