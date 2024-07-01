@@ -7,10 +7,16 @@ Soy una apasionada programadora con un enfoque en el desarrollo Full Stack. Hace
 En mi portafolio de GitHub, encontrarás variedad de proyectos en los que he trabajado recientemente. Estos incluyen aplicaciones web completas, APIs RESTful y más. Me enorgullece compartir mi código y siempre busco mejorar y aprender de la comunidad. 
 
 ## Habilidades Técnicas
-- **Frontend:** ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-- **Backend:** ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-- **Bases de Datos:** ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-- **Herramientas y Metodologías:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+- **Frontend:** 
+  ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) 
+  ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
+- **Backend:** 
+  ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) 
+  ![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png)
+- **Bases de Datos:** 
+  ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)
+- **Herramientas y Metodologías:** 
+  ![Git](https://img.icons8.com/color/48/000000/git.png)
 
 ## Experiencia Freelance
 Trabajar como desarrolladora freelance me ha permitido colaborar con diferentes clientes y proyectos, adaptándome a sus necesidades específicas y ofreciendo soluciones eficientes y escalables. Esta experiencia ha sido invaluable para desarrollar una perspectiva amplia y práctica del mundo de la programación.
