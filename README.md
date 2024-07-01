@@ -8,15 +8,16 @@ En mi portafolio de GitHub, encontrarás variedad de proyectos en los que he tra
 
 ## Habilidades Técnicas
 - **Frontend:** 
-  ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) 
-  ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
+  ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) 
+  ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) 
+  ![Bootstrap](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg)
 - **Backend:** 
-  ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) 
-  ![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png)
+  ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg) 
+  ![Spring Boot](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg)
 - **Bases de Datos:** 
-  ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)
+  ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)
 - **Herramientas y Metodologías:** 
-  ![Git](https://img.icons8.com/color/48/000000/git.png)
+  ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)
 
 ## Experiencia Freelance
 Trabajar como desarrolladora freelance me ha permitido colaborar con diferentes clientes y proyectos, adaptándome a sus necesidades específicas y ofreciendo soluciones eficientes y escalables. Esta experiencia ha sido invaluable para desarrollar una perspectiva amplia y práctica del mundo de la programación.
@@ -33,5 +34,7 @@ Estoy siempre abierta a nuevas oportunidades y conexiones en el mundo IT. Si tie
 ### Conéctate conmigo:
 - [LinkedIn](https://www.linkedin.com/in/gianina-azcurra)
 - [Correo Electrónico](gianina.azcurra8@gmail.com)
+
+![GitHub Cat](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
 ¡Gracias por visitar mi perfil de GitHub!
