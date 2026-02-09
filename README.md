@@ -3,7 +3,7 @@
 🎓 **Second-year student of the University Technician Degree in Programming**  
 📍 **Universidad Tecnológica Nacional (UTN)**
 
-I am a programming student with a strong focus on **software development fundamentals**, **object-oriented programming**, and **database-backed applications**.  
+I am a programming student with a strong focus on **software development fundamentals**, **object-oriented programming**, and **database-backend applications**.  
 I enjoy building clean, structured solutions and continuously improving my technical and problem-solving skills through academic and personal projects.
 
 ---
